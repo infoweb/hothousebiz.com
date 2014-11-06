@@ -29,7 +29,7 @@
 <a name="top" />
 <div id="container" class="container">
 	<div id="sideGutter" class="span-6">
-		<a href=""><img id="hothouseLogo" src="/image/logo.gif" width="100" height="100" alt="Hothouse logo" border="0"></a>
+		<a href="/"><img id="hothouseLogo" src="/image/logo.gif" width="100" height="100" alt="Hothouse logo" border="0"></a>
 	</div>
 
 	<div id="content" class="span-14">
