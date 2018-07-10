@@ -13,4 +13,4 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
-subsume: http://api.subsume.dev/
+subsume: http://localhost:8503/
